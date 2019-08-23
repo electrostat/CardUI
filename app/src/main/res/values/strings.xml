@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CardUI</string>
+    <string name="lorem_ipsum">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu ante id justo dapibus pretium vitae sed ante. Aliquam ullamcorper commodo lorem sit amet ullamcorper. Donec ut condimentum velit. Mauris faucibus turpis convallis dolor elementum accumsan. Aenean pellentesque, nunc non condimentum congue, ante justo mollis orci, ac porttitor orci ipsum ac arcu. Aenean scelerisque nisl vitae cursus tincidunt. Nullam non tellus suscipit, mattis elit sed, volutpat dui. Maecenas hendrerit sem est, non hendrerit libero faucibus et. Curabitur molestie imperdiet lacus eu varius. Curabitur hendrerit orci facilisis, mattis libero vel, gravida ante.</string>
 </resources>
