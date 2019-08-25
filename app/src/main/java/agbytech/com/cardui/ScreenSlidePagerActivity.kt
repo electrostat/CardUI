@@ -25,6 +25,7 @@ class ScreenSlidePagerActivity : FragmentActivity() {
         // The pager adapter, which provides the pages to the view pager widget.
         val pagerAdapter = ScreenSlidePagerAdapter(supportFragmentManager)
         mPager.adapter = pagerAdapter
+        mPager.rotation = 90F
     }
 
     override fun onBackPressed() {
